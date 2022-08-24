@@ -1,5 +1,4 @@
-<p><img align="center" src="welcome.gif" alt="arunsridher" /></p>
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Femas;
+<b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Femas;
 
 * Saya seorang pelajar dari Indonesia
 
