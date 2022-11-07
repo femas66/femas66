@@ -31,4 +31,4 @@ Hi
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=femas66&bg_color=000000&color=ff0000&line=00ff00&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=femas66&bg_color=000000&color=292929&line=6b6b6b&point=ffffff&area=true&hide_border=true)  
