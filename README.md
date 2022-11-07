@@ -4,30 +4,25 @@ Hi
 , I'm Femas
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="38"/>
 </h1>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=femas66"></a>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=femas66&label=Profile%20views&color=9e1a03&style=flat" alt="femas66"></p>
 
-### 🛠 &nbsp;Tech Stack
+<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=18> Language & Tools :</h3>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-<br />
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=CodeIgniter)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C">
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php">
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL">
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518">
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+</p>
 
-## &#x1f4c8; GitHub Stats
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=femas66&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=femas66&theme=radical" alt="arunsridher" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=femas66&show_icons=true&theme=tokyonight&layout=compact" alt="harjakrepp"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=femas66&show_icons=true&theme=tokyonight" alt="harjakrepp"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=femas66&theme=github-dark-blue" alt="harjakrepp"></p>
  
  <br />
  
