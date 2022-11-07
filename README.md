@@ -1,8 +1,10 @@
-<b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Femas;
-
-* Saya seorang pelajar dari Indonesia
-
-![](https://visitor-badge.glitch.me/badge?page_id=femas66)
+<h1 align="center">
+Hi
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
+, I'm Femas
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="38"/>
+</h1>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=femas66"></a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -19,7 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -30,4 +31,4 @@
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=femas66&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=femas66&bg_color=000000&color=ff0000&line=00ff00&point=ffffff&area=true&hide_border=true)  
