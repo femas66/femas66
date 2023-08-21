@@ -20,10 +20,7 @@ Hi
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=femas66&show_icons=true&theme=tokyonight&layout=compact" alt="harjakrepp"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=femas66&show_icons=true&theme=tokyonight" alt="harjakrepp"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=femas66&theme=github-dark-blue" alt="harjakrepp"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=femas66&show_icons=true&theme=tokyonight&layout=compact" alt="femas66"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=femas66&show_icons=true&theme=tokyonight" alt="femas66"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=femas66&theme=github-dark-blue" alt="femas66"></p>
  
- <br />
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=femas66&bg_color=000000&color=292929&line=6b6b6b&point=ffffff&area=true&hide_border=true)  
