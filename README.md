@@ -6,7 +6,7 @@
 
 <h3 align="left">Languages and Tools:</h3><p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,kotlin,mysql,laravel,python,php,go,androidstudio,bash,dart,flutter,flask,nodejs,tailwind,java,bootstrap,cpp,firebase,html,js,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,kotlin,mysql,laravel,python,php,go,bash,dart,flutter,nodejs,java,bootstrap,cpp,firebase" />
   </a>
 </p>
 
