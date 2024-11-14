@@ -6,4 +6,3 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=femas66&show_icons=true&locale=en&layout=donut&theme=onedark" alt="femas66" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=femas66&theme=onedark&" alt="femas66" /></p>
