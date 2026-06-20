@@ -4,43 +4,26 @@
 
 ```rust
 struct Welcome {
-    name: String,
-    role: String,
-    language_spoken: Vec<String>,
-    languages: Vec<String>,
-    frameworks_libraries: Vec<String>,
-    databases_tools: Vec<String>,
-    workflow_systems: Vec<String>,
-}
-
-impl Welcome {
-    fn new() -> Self {
-        Welcome {
-            name: String::from("Femas Akbar Faturrohim"),
-            role: String::from("Student"),
-            language_spoken: vec![String::from("id_ID")],
-            languages: vec![
-                "Go", "PHP", "Python", "JavaScript", "TypeScript"
-            ].iter().map(|&s| s.to_string()).collect(),
-            frameworks_libraries: vec![
-                "Fiber", "Laravel", "Astro", "Flutter", "Tailwind CSS"
-            ].iter().map(|&s| s.to_string()).collect(),
-            databases_tools: vec![
-                "PostgreSQL", "MySQL", "Docker", "Git", "Linux"
-            ].iter().map(|&s| s.to_string()).collect(),
-            workflow_systems: vec![
-                "Obsidian", "Notion", "Automated Workflows"
-            ].iter().map(|&s| s.to_string()).collect(),
-        }
-    }
-
-    fn say_hi(&self) {
-        println!("Hello! I'm a developer who loves learning new things.");
-    }
+    name: &'static str,
+    role: &'static str,
+    language_spoken: &'static [&'static str],
+    languages: &'static [&'static str],
+    frameworks_libraries: &'static [&'static str],
+    databases_tools: &'static [&'static str],
+    workflow_systems: &'static [&'static str],
 }
 
 fn main() {
-    let me = Welcome::new();
-    me.say_hi();
+    let me = Welcome {
+        name: "Femas Akbar Faturrohim",
+        role: "Student",
+        language_spoken: &["id_ID"],
+        languages: &["Go", "PHP", "Python", "JavaScript", "TypeScript"],
+        frameworks_libraries: &["Fiber", "Laravel", "Astro", "Flutter", "Tailwind CSS"],
+        databases_tools: &["PostgreSQL", "MySQL", "Docker", "Git", "Linux"],
+        workflow_systems: &["Obsidian", "Notion", "Automated Workflows"],
+    };
+
+    println!("Hello! I'm a developer who loves learning new things.");
 }
 ```
