@@ -7,6 +7,10 @@ struct Welcome {
     name: String,
     role: String,
     language_spoken: Vec<String>,
+    languages: Vec<String>,
+    frameworks_libraries: Vec<String>,
+    databases_tools: Vec<String>,
+    workflow_systems: Vec<String>,
 }
 
 impl Welcome {
@@ -15,8 +19,21 @@ impl Welcome {
             name: String::from("Femas Akbar Faturrohim"),
             role: String::from("Student"),
             language_spoken: vec![String::from("id_ID")],
+            languages: vec![
+                "Go", "PHP", "Python", "JavaScript", "TypeScript"
+            ].iter().map(|&s| s.to_string()).collect(),
+            frameworks_libraries: vec![
+                "Fiber", "Laravel", "Astro", "Flutter", "Tailwind CSS"
+            ].iter().map(|&s| s.to_string()).collect(),
+            databases_tools: vec![
+                "PostgreSQL", "MySQL", "Docker", "Git", "Linux"
+            ].iter().map(|&s| s.to_string()).collect(),
+            workflow_systems: vec![
+                "Obsidian", "Notion", "Automated Workflows"
+            ].iter().map(|&s| s.to_string()).collect(),
         }
     }
+
     fn say_hi(&self) {
         println!("Hello! I'm a developer who loves learning new things.");
     }
@@ -27,9 +44,3 @@ fn main() {
     me.say_hi();
 }
 ```
-## 🔧 Technologies & Tools
-
-- **Languages:** Go, PHP, Python, JavaScript, TypeScript
-- **Frameworks & Libraries:** Fiber, Laravel, Astro, Flutter, Tailwind CSS
-- **Databases & Tools:** PostgreSQL, MySQL, Docker, Git, Linux
-- **Workflow & Systems:** Obsidian, Notion, Automated Workflows
