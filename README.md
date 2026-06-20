@@ -2,23 +2,30 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=femas66&label=Profile%20views&color=0e75b6&style=flat)
 
-```python
-#!/usr/bin/python
+```rust
+struct Welcome {
+    name: String,
+    role: String,
+    language_spoken: Vec<String>,
+}
 
+impl Welcome {
+    fn new() -> Self {
+        Welcome {
+            name: String::from("Femas Akbar Faturrohim"),
+            role: String::from("Student"),
+            language_spoken: vec![String::from("id_ID")],
+        }
+    }
+    fn say_hi(&self) {
+        println!("Hello! I'm a developer who loves learning new things.");
+    }
+}
 
-class Welcome:
-
-    def __init__(self):
-        self.name = "Femas Akbar Faturrohim"
-        self.role = "Student"
-        self.language_spoken = ["id_ID"]
-
-    def say_hi(self):
-        print("Hello! I'm a developer who loves learning new things.")
-
-
-me = Welcome()
-me.say_hi()
+fn main() {
+    let me = Welcome::new();
+    me.say_hi();
+}
 ```
 ## 🔧 Technologies & Tools
 
